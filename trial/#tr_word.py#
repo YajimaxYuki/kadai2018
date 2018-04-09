@@ -1,7 +1,0 @@
-import sys
-f = open (sys.argv[1])
-r = f.read
-n = r.split ()
-for x in n:
-    print (x)
-f.close

@@ -1,5 +1,0 @@
-import sys
-f = open (sys.argv)
-e = f.read ()
-f.close
-print (e)
